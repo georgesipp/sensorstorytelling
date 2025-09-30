@@ -24,9 +24,8 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 
 --
 
-<video controls="" autoplay="" name="media">
-    <source src="src/SOUND/forestwalk.mp3" type="audio/mp3">
-</video>
+![alt text](https://github.com/georgesipp/sensorstorytelling/blob/main/src/SOUND/forestwalk.mp3)
+
 --
 
 ![alt text](src/SOUND/maxmsp_screenshot.png)
