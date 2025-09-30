@@ -8,7 +8,9 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 
 ## Screen
 
-## Sound
+<details>
+<summary>## Sound</summary>
+
 
 ![Flaneur](https://github.com/georgesipp/sensorstorytelling/blob/main/src/SOUND/flaneur_wikipedia_screenshot.png "Flaneur")
 
@@ -27,5 +29,6 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 <code style="color : red">Ich hab die Atmo und ein paar Schritte zusammengeschnitten. Für die Website wäre es natürlich gut wenn es direkt im Browser gespielt wird.</code>
 
 ![alt text](src/SOUND/maxmsp_screenshot.png)<br/>
+</details>
 
 ## Space
