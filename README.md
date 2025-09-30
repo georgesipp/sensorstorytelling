@@ -17,10 +17,10 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 
 |![alt text](<src/SOUND/Circuit/Screenshot 2025-09-26 at 18.17.05.png>) | ![alt text](src/SOUND/Fotos/Hackathon-02.jpeg)|
 |:---------:|:----------:|
-|![alt text](src/SOUND/Fotos/Hackathon-031.jpg) | ![alt text](<src/SOUND/Circuit/Screenshot 2025-09-26 at 18.17.12.png>)|
-|![alt text](<src/SOUND/Circuit/Screenshot 2025-09-26 at 18.17.26.png>) | ![alt text](src/SOUND/Fotos/Hackathon-061.jpg)|
-|![alt text](src/SOUND/Fotos/Hackathon-096.jpg) | ![alt text](src/SOUND/Fotos/Hackathon-040.jpg)|
-|![alt text](src/SOUND/Fotos/Hackathon-013.jpg) | ![alt text](src/SOUND/Fotos/Hackathon-020.jpg) |
+|![alt text](src/SOUND/Fotos/Hackathon-031.jpg)                         |   ![alt text](<src/SOUND/Circuit/Screenshot 2025-09-26 at 18.17.12.png>)|
+|![alt text](<src/SOUND/Circuit/Screenshot 2025-09-26 at 18.17.26.png>) | ![alt text](src/SOUND/Fotos/Hackathon-61.jpeg)|
+|![alt text](src/SOUND/Fotos/Hackathon-96.jpeg)                         | ![alt text](src/SOUND/Fotos/Hackathon-40.jpeg)|
+|![alt text](src/SOUND/Fotos/Hackathon-13.jpeg)                         | ![alt text](src/SOUND/Fotos/Hackathon-20.jpeg)|
 
 
 
