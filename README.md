@@ -8,10 +8,10 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 
 ## Screen
 
+
+
+## Sound
 <details>
-<summary>## Sound</summary>
-
-
 ![Flaneur](https://github.com/georgesipp/sensorstorytelling/blob/main/src/SOUND/flaneur_wikipedia_screenshot.png "Flaneur")
 
 <code style="color : red">Für Github habe ich einen Wikipedia Screenshot gemacht. Für die Website ist es vielleicht chamanter die Wikipedia Page einzubetten anstatt nur den Text einzufügen.</code>
