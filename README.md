@@ -2,12 +2,12 @@
 
 Dieses Repository dient als Referenz für die Sensor Storytelling Hackathon Website.
 
-##GENERAL
-Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen: [here](#Screen), [here](#Sound), [here](#Space).
+## GENERAL
+Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen: [Screen](#Screen), [Sound](#Sound) und [Space](#Space).
 
 
-##Screen
+## Screen
 
-##Sound
+## Sound
 
-##Space
+## Space
