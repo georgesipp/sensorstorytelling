@@ -16,6 +16,7 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 
 
 |![alt text](<src/SOUND/Circuit/Screenshot 2025-09-26 at 18.17.05.png>) | ![alt text](src/SOUND/Fotos/Hackathon-02.jpeg)|
+|---|---|
 
 ## Space
 
