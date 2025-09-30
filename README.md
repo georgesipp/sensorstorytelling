@@ -11,11 +11,11 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 
 ![alt text](src/SCREEN/Fotos/Hackathon-009.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-19.jpg)
 |:---------:|:----------:|
-![alt text](src/SCREEN/Fotos/Hackathon-54.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-32.jpg)
+![alt text](src/SCREEN/Fotos/Hackathon-054.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-32.jpg)
 
 ![alt text](<src/SCREEN/3D Models/Renderings/ball.png>)
 
-![alt text](src/SCREEN/Fotos/Hackathon-77.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-043.jpg)
+![alt text](src/SCREEN/Fotos/Hackathon-77.jpeg)|![alt text](src/SCREEN/Fotos/Hackathon-043.jpg)
 |:---------:|:----------:|
 ![alt text](src/SCREEN/Fotos/Hackathon-23.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-53.jpg)
 
