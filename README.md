@@ -10,7 +10,8 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 
 ## Sound
 
-![Flaneur](https://raw.githubusercontent.com/georgesipp/sensorstorytelling/main/src/SOUND/flaneur_wikipedia_screenshot.png "Flaneur")
+![Flaneur](https://github.com/georgesipp/sensorstorytelling/blob/main/src/SOUND/flaneur_wikipedia_screenshot.png "Flaneur")
 
 
 ## Space
+
