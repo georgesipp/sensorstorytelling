@@ -8,6 +8,72 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 
 ## Screen
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Sound
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Space
