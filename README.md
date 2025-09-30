@@ -8,6 +8,7 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 
 ## Screen
 ![alt text](<src/SCREEN/3D Models/Renderings/room.png>)
+<code style="color : red">Ich habe noch ein Rendering aus dem 3D Scan gemacht. Einige der 3D Dateien hab ich auch hochgeladen. Vielleicht kann man auf der Website auch direkt 3D Modelle anzeigen.</code>
 
 ![alt text](src/SCREEN/Fotos/Hackathon-009.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-19.jpg)
 |:---------:|:----------:|
@@ -23,7 +24,7 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 
 ![Flaneur](https://github.com/georgesipp/sensorstorytelling/blob/main/src/SOUND/flaneur_wikipedia_screenshot.png "Flaneur")
 
-<code style="color : red">Für Github habe ich einen Wikipedia Screenshot gemacht. Für die Website ist es vielleicht chamanter die Wikipedia Page einzubetten anstatt nur den Text einzufügen.</code>
+<code style="color : red">Für Github habe ich einen Wikipedia Screenshot gemacht. Für die Website ist es vielleicht charmanter die Wikipedia Page einzubetten anstatt nur den Text einzufügen.</code>
 
 
 |![alt text](<src/SOUND/Circuit/Screenshot 2025-09-26 at 18.17.05.png>) | ![alt text](src/SOUND/Fotos/Hackathon-02.jpeg)|
