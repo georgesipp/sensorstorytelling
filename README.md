@@ -5,22 +5,22 @@ Dieses Repository dient als Referenz für die Sensor Storytelling Hackathon Webs
 ## Hackathon
 Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen: [Screen](#Screen), [Sound](#Sound) und [Space](#Space).
 
-<code style="color : red">Bei der Auswahl der Fotos habe ich versucht zu zeigen wie sich die einzelnen Projekte entwickelt haben. Wenn wir die Personen noch mehr im Vordergrund haben wollen kann ich auch nochmal durschschauen.</code>
+<code style="color : red">Bei der Auswahl der Fotos habe ich versucht zu zeigen wie sich die einzelnen Projekte entwickelt haben. Wenn wir die Personen noch mehr im Vordergrund haben wollen kann ich auch nochmal durschschauen.</code><br/>
 <code style="color : red">Ansonsten ist ein bisschen die Frage, was wir alles teilen wollen/können. Also sollen Code Snippets auch hochgeladen werden? Oder geht es nur darum einen Eindruck vom Hackathon zu bekommen?</code>
 
 ## Screen
 ![alt text](<src/SCREEN/3D Models/Renderings/room.png>)
-<code style="color : red">Ich habe noch ein Rendering aus dem 3D Scan gemacht. Einige der 3D Dateien hab ich auch hochgeladen. Vielleicht kann man auf der Website auch direkt 3D Modelle anzeigen.</code>
+<code style="color : red">Ich habe noch ein Rendering aus dem 3D Scan gemacht. Einige der 3D Dateien hab ich auch hochgeladen. Vielleicht kann man auf der Website auch direkt 3D Modelle anzeigen.</code><br/>
 
 ![alt text](src/SCREEN/Fotos/Hackathon-009.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-19.jpg)
 |:---------:|:----------:|
-![alt text](src/SCREEN/Fotos/Hackathon-054.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-32.jpg)
+![alt text](src/SCREEN/Fotos/Hackathon-054.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-32.jpg)<br/>
 
-![alt text](<src/SCREEN/3D Models/Renderings/ball.png>)
+![alt text](<src/SCREEN/3D Models/Renderings/ball.png>)<br/>
 
 ![alt text](src/SCREEN/Fotos/Hackathon-77.jpeg)|![alt text](src/SCREEN/Fotos/Hackathon-043.jpg)
 |:---------:|:----------:|
-![alt text](src/SCREEN/Fotos/Hackathon-23.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-53.jpg)
+![alt text](src/SCREEN/Fotos/Hackathon-23.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-53.jpg)<br/>
 
 ## Sound
 
