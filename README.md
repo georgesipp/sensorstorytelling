@@ -2,9 +2,11 @@
 
 Dieses Repository dient als Referenz für die Sensor Storytelling Hackathon Website.
 
-## GENERAL
+## Hackathon
 Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen: [Screen](#Screen), [Sound](#Sound) und [Space](#Space).
 
+<code style="color : red">Bei der Auswahl der Fotos habe ich versucht zu zeigen wie sich die einzelnen Projekte entwickelt haben. Wenn wir die Personen noch mehr im Vordergrund haben wollen kann ich auch nochmal durschschauen.</code>
+<code style="color : red">Ansonsten ist ein bisschen die Frage, was wir alles teilen wollen/können. Also sollen Code Snippets auch hochgeladen werden? Oder geht es nur darum einen Eindruck vom Hackathon zu bekommen?</code>
 
 ## Screen
 ![alt text](<src/SCREEN/3D Models/Renderings/room.png>)
