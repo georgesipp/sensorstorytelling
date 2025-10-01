@@ -1,16 +1,21 @@
 # Sensor Storytelling Hackathon
 
-Dieses Repository dient als Referenz für die Sensor Storytelling Hackathon Website.
+Dieses Repository dient als Referenz für die Sensor Storytelling Hackathon Website. Im Source Ordner sind die Dokumente gesammlt und unten mit Kommentaren versehen. 
 
 ## Hackathon
-Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen: [Screen](#Screen), [Sound](#Sound) und [Space](#Space).
 
-Der Hackathon widmet sich den Fragen: Welche neuen Wege bietet moderne 
+Der Sensor Storytelling Hackathon widmet sich den Fragen: Welche neuen Wege bietet moderne 
 Sensortechnologie, um Bewegung, Klang und 
 Raumgestaltung auf der Bühne zu verknüpfen? 
 Wie können interaktive Sensortechnik im Objekt- und Figurentheater und in 
 partizipativen Theaterformaten eingesetzt werden? 
 Welche Erlebnisqualitäten werden damit möglich?
+
+Die Teilnehmenden des Hackathons haben sich in drei Gruppen aufgeteilt: [Screen](#Screen), [Sound](#Sound) und [Space](#Space).
+
+Die Idee für den Hackathon entwickelte sich aus dem Interface Marionette. Eine Marionette die mit Hilfe von IMU Sensoren in der Lage ist, ihre Bewegungen an eine digitale Marionette zu übertragen. 
+
+![alt text](src/GENERAL/Hackathon-24.jpg)
 
 <code style="color : red">Bei der Auswahl der Fotos habe ich versucht zu zeigen wie sich die einzelnen Projekte entwickelt haben. Wenn wir die Personen noch mehr im Vordergrund haben wollen kann ich auch nochmal durschschauen.</code><br/>
 <code style="color : red">Ansonsten ist ein bisschen die Frage, was wir alles teilen wollen/können. Also sollen Code Snippets auch hochgeladen werden? Oder geht es nur darum einen Eindruck vom Hackathon zu bekommen?</code>
