@@ -47,11 +47,11 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 ![alt text](src/SPACE/Ideensammlung.png)
 
 |![alt text](src/SPACE/ESP8266+BNO055.jpg) | ![alt text](src/SPACE/HID.jpg) | ![alt text](src/SPACE/MobilePlatform.jpg)|
-|:---:|:---:|:---:|<br/>
+|:---:|:---:|:---:|
 
 
 [wesen-objektsubjekt] (https://github.com/user-attachments/files/22635277/wesen-objektsubjekt.mp3)
-<br/>
+
 
 
 ![alt text](src/SPACE/Fotos/Hackathon-08.jpg) | ![alt text](src/SPACE/Fotos/Hackathon-43.jpg)
