@@ -13,7 +13,7 @@ Welche Erlebnisqualitäten werden damit möglich?
 
 Die Teilnehmenden des Hackathons haben sich in drei Gruppen aufgeteilt: [Screen](#Screen), [Sound](#Sound) und [Space](#Space).
 
-Die Idee für den Hackathon entwickelte sich aus dem Interface Marionette. Eine Marionette die mit Hilfe von IMU Sensoren in der Lage ist, ihre Bewegungen an eine digitale Marionette zu übertragen. 
+Die Idee für den Hackathon entwickelte sich aus dem Projekt "Interface Marionette". Eine Marionette die mit Hilfe von IMU Sensoren in der Lage ist, ihre Bewegungen an eine digitale Marionette zu übertragen. 
 
 ![alt text](src/GENERAL/Hackathon-24.jpg)
 
