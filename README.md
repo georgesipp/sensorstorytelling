@@ -50,7 +50,7 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 |:---:|:---:|:---:|
 
 <br/>
-
+[wesen-objektsubjekt.mp3](https://github.com/user-attachments/files/22635277/wesen-objektsubjekt.mp3)
 <br/>
 
 
@@ -58,5 +58,9 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 |:---------:|:----------:|
 ![alt text](src/SPACE/Fotos/Hackathon-06.jpeg) | ![alt text](src/SPACE/Fotos/Hackathon-25.jpg)
 ![alt text](src/SPACE/Fotos/Hackathon-071.jpg) | ![alt text](src/SPACE/Fotos/Hackathon-88.jpg)
+
+![alt text](src/SPACE/Baustellen.png)
+
 ![alt text](src/SPACE/Fotos/Hackathon-10.jpg) | ![alt text](src/SPACE/Fotos/Hackathon-48.jpg)
+|:---------:|:----------:|
 ![alt text](src/SPACE/Fotos/Hackathon-18.jpg) | ![alt text](src/SPACE/Fotos/Hackathon-11.jpg)
