@@ -43,3 +43,17 @@ Beim Sensor Storytelling Hackathon arbeiteten die Teilnehmenden in drei Gruppen:
 ![alt text](src/SOUND/maxmsp_screenshot.png)<br/>
 
 ## Space
+
+![alt text](src/SPACE/Ideensammlung.png)
+
+![alt text](src/SPACE/ESP8266+BNO055.jpg) | ![alt text](src/SPACE/HID.jpg) | ![alt text](src/SPACE/MobilePlatform.jpg)<br/>
+
+<br/>
+
+
+![alt text](src/SPACE/Fotos/Hackathon-08.jpg) | ![alt text](src/SPACE/Fotos/Hackathon-43.jpg)
+|:---------:|:----------:|
+![alt text](src/SPACE/Fotos/Hackathon-06.jpeg) | ![alt text](src/SPACE/Fotos/Hackathon-25.jpg)
+![alt text](src/SPACE/Fotos/Hackathon-071.jpg) | ![alt text](src/SPACE/Fotos/Hackathon-88.jpg)
+![alt text](src/SPACE/Fotos/Hackathon-10.jpg) | ![alt text](src/SPACE/Fotos/Hackathon-48.jpg)
+![alt text](src/SPACE/Fotos/Hackathon-18.jpg) | ![alt text](src/SPACE/Fotos/Hackathon-11.jpg)
