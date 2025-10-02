@@ -91,10 +91,10 @@ The Arduino code sends out 24 comma separated values that each represent the 10b
 ![alt text](src/SOUND/maxmsp_screenshot.png)<br/>
 
 ### Credits:
-Jonas Olbrich
-Lisa Passing
-Hannah Perner-Wilson
-Laura Pföhler
+Jonas Olbrich__
+Lisa Passing__
+Hannah Perner-Wilson__
+Laura Pföhler__
 Jan Schulten
 
 
