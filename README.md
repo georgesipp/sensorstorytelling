@@ -4,6 +4,7 @@ Dieses Repository dient als Referenz für die Sensor Storytelling Hackathon Webs
 
 ## Hackathon
 
+
 Der Sensor Storytelling Hackathon widmet sich den Fragen: Welche neuen Wege bietet moderne 
 Sensortechnologie, um Bewegung, Klang und 
 Raumgestaltung auf der Bühne zu verknüpfen? 
@@ -36,6 +37,21 @@ Die Idee für den Hackathon entwickelte sich aus dem Projekt "Interface Marionet
 
 ## Sound
 
+### The Word for World is Forrest
+
+Hat hier jemand Bedarf zu flanieren?
+Im Raum befindet sich ein Flanierkreis. Mehrere Menschen können darauf gleichzeitig flanieren. Und es müssen nicht immer die gleichen Menschen sein.
+
+The text passage that the audience can hear by walking is from FLEXEN. Flâneusen* schreiben Städte by Lea Sauer, Mia Göhring, Özlem Özgül Dündar, Ronya Othmann (Hg.)
+https://www.verbrecherverlag.de/shop/flexen-flaneusen-schreiben-staedte/ 
+
+The song is not by Taylor Swift but by Joni Mitchell, "Big Yellow Taxi":
+https://www.youtube.com/watch?v=94bdMSCdw20 
+
+The title of our project, which we agreed upon 10 minutes before presenting our project, is inspired by the title of Ursula K. Le Guin’s novel which deals with ideas of preserving vs. conquering novel cultures and ecologies.
+https://en.wikipedia.org/wiki/The_Word_for_World_Is_Forest
+
+
 ![Flaneur](https://github.com/georgesipp/sensorstorytelling/blob/main/src/SOUND/flaneur_wikipedia_screenshot.png "Flaneur")
 
 <code style="color : red">Für Github habe ich einen Wikipedia Screenshot gemacht. Für die Website ist es vielleicht charmanter die Wikipedia Page einzubetten anstatt nur den Text einzufügen.</code>
@@ -44,7 +60,27 @@ Die Idee für den Hackathon entwickelte sich aus dem Projekt "Interface Marionet
 |![alt text](<src/SOUND/Circuit/Screenshot 2025-09-26 at 18.17.05.png>) | ![alt text](src/SOUND/Fotos/Hackathon-02.jpeg)|
 |:---------:|:----------:|
 |![alt text](src/SOUND/Fotos/Hackathon-031.jpg)                         |   ![alt text](<src/SOUND/Circuit/Screenshot 2025-09-26 at 18.17.12.png>)|
+
+### Technical Description
+
+#### HARDWARE (SENSORS + ARDUINO)
+The flanierkreis is made up of 24 handmade pressure sensors similar to these:
+https://www.kobakant.at/DIY/?p=429
+The sensors are made from copper, alu and silverized nylon tapes stuck to plastic sheets with a layer of Velostat piezoresistive plastic on top.
+One side of each sensor is connected to a digital pin on an Arduino Mega, the other side of all sensors is inter-connected to analog pin A0. The pressure range of the sensors is around 10,000 - 200 Ohm. We used a voltage dividing resistor of 1K between A0 and +5V to detect a person stepping on a sensor.
+
+#### ARDUINO CODE
+The code on the Arduino parses through the 24 pressure sensors, similar to the code for reading this pressure-sensor matrix:
+https://www.kobakant.at/DIY/?p=7943
+
+The Arduino code sends out 24 comma separated values that each represent the 10bit pressure value for each sensor, and as a last 25th value the arduino sends a number that should be interpreted as follows:
+ 100 - nobody on the circle
+ 0 - people walking on the circle
+ 1-99 - # people standing still on the circle
+
+
 |![alt text](<src/SOUND/Circuit/Screenshot 2025-09-26 at 18.17.26.png>) | ![alt text](src/SOUND/Fotos/Hackathon-61.jpg)|
+|:---------:|:----------:|
 |![alt text](src/SOUND/Fotos/Hackathon-96.jpg)                         | ![alt text](src/SOUND/Fotos/Hackathon-40.jpg)|
 |![alt text](src/SOUND/Fotos/Hackathon-13.jpg)                         | ![alt text](src/SOUND/Fotos/Hackathon-20.jpg)|
 <br/>
@@ -53,6 +89,14 @@ Die Idee für den Hackathon entwickelte sich aus dem Projekt "Interface Marionet
 <code style="color : red">Ich hab die Atmo und ein paar Schritte zusammengeschnitten. Für die Website wäre es natürlich gut wenn es direkt im Browser gespielt wird.</code>
 
 ![alt text](src/SOUND/maxmsp_screenshot.png)<br/>
+
+### Credits:
+Jonas Olbrich
+Lisa Passing
+Hannah Perner-Wilson
+Laura Pföhler
+Jan Schulten
+
 
 ## Space
 
