@@ -23,17 +23,40 @@ Die Idee für den Hackathon entwickelte sich aus dem Projekt "Interface Marionet
 
 ## Screen
 ![alt text](<src/SCREEN/3D Models/Renderings/room.png>)
-<code style="color : red">Ich habe noch ein Rendering aus dem 3D Scan gemacht. Einige der 3D Dateien hab ich auch hochgeladen. Vielleicht kann man auf der Website auch direkt 3D Modelle anzeigen.</code><br/>
+### We are Blender
+
+A Blender tutorial comes to life on stage. Six performers in an office setting collaboratively model a new 3D character – but instead of using computers, they become the software itself.
+
+
+Each person embodies a single tool: one controls object rotation, another the camera position, someone clicks the mouse, another switches between edit and sculpt mode. Simple actions become full-body movements – a mouse click transforms into pulling on a power strip, gestures are exaggerated, everyday objects are hacked into interfaces.
+
+The hidden complexity of our everyday interactions with technology is exposed by the performance. It humorously mirrors human cognition and behavior with computer interfaces, making visible the effort behind seemingly simple digital tasks.
+The team collaboratively creates a digital character, evoking the traditions of puppet theater, in which several actors bring a single figure to life. The real theater space exists as a 3D scan within Blender, blurring the barriers between physical and virtual worlds.
 
 ![alt text](src/SCREEN/Fotos/Hackathon-009.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-19.jpg)
 |:---------:|:----------:|
 ![alt text](src/SCREEN/Fotos/Hackathon-054.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-32.jpg)<br/>
 
 ![alt text](<src/SCREEN/3D Models/Renderings/ball.png>)<br/>
+### Technical Description:
+
+A set of ESP32 microcontrollers equipped with IMU sensors were used to capture movement and rotation data from various real objects on stage. The data was transmitted to a central Blender instance running on our server via OSC protocol, using the AddRoutes plugin (https://blender-addons.org/addroutes/). 
+A 3D room scan was generated with Polycam (https://poly.cam/) and subsequently scaled to match real-world dimensions. In a separate Unity application, both virtual environments (Blender and Unity) were spatially aligned using spatial anchors, enabling the use of a Head Mounted Display as a virtual camera within the Blender scene. 
+Additionally, several custom scripts were developed to handle virtual clicking and mouse movement, allowing for big clicks, beautiful screen interactions and smooth modeling operations.
+
 
 ![alt text](src/SCREEN/Fotos/Hackathon-77.jpeg)|![alt text](src/SCREEN/Fotos/Hackathon-043.jpg)
 |:---------:|:----------:|
 ![alt text](src/SCREEN/Fotos/Hackathon-23.jpg)|![alt text](src/SCREEN/Fotos/Hackathon-53.jpg)<br/>
+### Credits:
+
+Edda Rabold<br />
+Helene Kummer<br />
+Ronja Lindemann<br />
+Ruxin  Liuu<br />
+Julian Jungel<br />
+Fabian Töpfer
+
 
 ## Sound
 
